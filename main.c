@@ -1,4 +1,4 @@
-// 0.Sección de documentación 
+// 0.Sección de documentación //este es un ejemplo revisar configuracion del la frecuencia, parece que este es para el otro PIC
 // main.c
 // Dispositivo: PIC16F18877
 // Práctica 1.1 
